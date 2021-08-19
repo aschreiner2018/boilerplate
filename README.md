@@ -1,4 +1,8 @@
-<b>Obs:</b> Comando para criar um novo projeto usando esse Boilerplate
+<b><u>Obs:</u></b> Comando para criar um novo projeto usando esse Boilerplate
+
+```
+yarn create next-app -e https://github.com/aschreiner2018/boilerplate
+```
 
 ![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
