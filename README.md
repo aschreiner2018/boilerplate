@@ -1,3 +1,4 @@
+<b>Obs:</b> Comando para criar um novo projeto usando esse Boilerplate
 
 ![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
